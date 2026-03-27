@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ary+Bhatt;Open+Source+Developer;Python+%7C+JavaScript+%7C+Linux;Cybersecurity+%7C+AI+Enthusiast;Building+Projects+%26+Solving+Problems" />
+</p>
 <h1 align="center">Hi 👋, I'm Ary Bhatt</h1>
 <h3 align="center">🚀 BCA Student | Open Source Contributor | Cybersecurity & AI Enthusiast</h3>
 
