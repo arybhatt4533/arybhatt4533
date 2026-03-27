@@ -1,5 +1,21 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ary+Bhatt;Open+Source+Developer;Python+%7C+JavaScript+%7C+Linux;Cybersecurity+%7C+AI+Enthusiast;Building+Projects+%26+Solving+Problems" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Ary%20Bhatt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Open+Source+Contributor;Cybersecurity+Learner;JavaScript+%7C+C%2B%2B+%7C+Linux;Building+Projects+and+Solving+Problems"/>
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/C++-Programmer-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=hackthebox"/>
 </p>
 <h1 align="center">Hi 👋, I'm Ary Bhatt</h1>
 <h3 align="center">🚀 BCA Student | Open Source Contributor | Cybersecurity & AI Enthusiast</h3>
