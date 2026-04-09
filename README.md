@@ -8,74 +8,85 @@
 
 ---
 
-## 🏆 Achievements & Skills
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arybhatt4533&theme=tokyonight&no-bg=true&margin-w=15" alt="Arya Bhatt Trophies" />
-</p>
+## 🏆 Achievements & Visual Trophies
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <b>🛠 Core Stack</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,flask,html,css,js,linux,kali,git,bash&perline=6" />
-    </td>
-    <td align="center" width="50%">
-      <b>📊 Most Used Languages</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arybhatt4533&layout=compact&theme=tokyonight&hide_border=true" />
+    <td align="center" width="100%">
+      <b>🔥 Verified Skill Trophies</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,bash,flask,python,java,mysql,c,cpp,html,css,js&perline=13" />
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Projects & Contributions
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>👁️ Omni-Eye</h3>
-      <p>AI-based surveillance system using Face Recognition for sighting matching.</p>
-      <code>Python</code> <code>Flask</code> <code>OpenCV</code>
+    <td align="center" width="100%">
+      <b>📊 Top Language Analytics (Static)</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,bash,js,flask&theme=dark" />
     </td>
-    <td width="50%">
-      <h3>🛰️ STDAMS</h3>
-      <p>Satellite health monitoring and anomaly detection system (UDHACK 4.0).</p>
-      <code>Python</code> <code>Machine Learning</code> <code>Scikit-Learn</code>
+  </tr>
+</table>
+
+- 🌟 **Trophy Case:** Trophies now show verified proficiency in core technologies.
+- ⚡ **Direct Load:** No `api` limits, icons load immediately for everyone.
+
+---
+
+## 🚀 Projects Dashboard (Bar Chart Style)
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Omni-Eye | Real-time AI</h3>
+      <p>AI Surveillance System using Face Recognition.</p>
+      <code>Python</code> <code>Flask</code> <code>OpenCV</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ STDAMS | Satellite Monitor</h3>
+      <p>UDHACK 4.0 Hackathon anomaly detection.</p>
+      <code>Python</code> <code>Machine Learning</code> <code>Scikit-Learn</code> <code>DataViz</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>🍏 Open Food Facts (Open Source)</h3>
-      <p>Active contributor to the world's largest food database. Fixing UI and Backend issues as part of GSoC 2026 prep.</p>
-      <code>JavaScript</code> <code>Python</code> <code>C++</code>
+      <p>Active contributor to the world's largest food database. Fixing UI and Backend issues.</p>
+      <code>JavaScript</code> <code>Python</code> <code>C++</code> <code>Documentation</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arybhatt4533&theme=react-dark&area=true&hide_border=true" width="100%" />
+## 🛡️ CyberSec Capabilities (Kali Aero Style)
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-Scanning-green?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
+
+- 🔍 **Basic Networking:** Knowledge of Nmap scanning and vulnerability exploration.
+- 🐧 **Linux Proficiency:** Comfortable in Kali Linux terminal and Bash scripting.
+- 📂 **Database Mastery:** Writing efficient SQL queries.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect (Badges & Icons)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/bhattarya4533/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:bhattarya4533@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/arybhatt4533">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
 </a>
 </p>
-
 ---
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<p align="center">⭐ <i>“Code. Contribute. Collaborate.”</i></p>
