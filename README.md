@@ -1,34 +1,34 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Arya%20Bhatt&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,70:203a43,100:2c5364&height=250&section=header&text=Arya%20Bhatt&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20&descColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Python+%26+Java+Expert;Open+Source+Contributor;Cybersecurity+%26+Linux+Enthusiast;GSoC+2026+Aspirant;Building+Innovative+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+%26+Java+Expert;Open+Source+Contributor;Cybersecurity+%26+Linux+Enthusiast;GSoC+2026+Aspirant;Building+Innovative+Solutions"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack Grid
+## 🏆 Achievements & Skills
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arybhatt4533&theme=tokyonight&no-bg=true&margin-w=15" alt="Arya Bhatt Trophies" />
+</p>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <b>🚀 Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" />
+    <td align="center" width="50%">
+      <b>🛠 Core Stack</b><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,flask,html,css,js,linux,kali,git,bash&perline=6" />
     </td>
-    <td align="center" width="33%">
-      <b>🌐 Web & DB</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,mysql,flask&theme=dark" />
-    </td>
-    <td align="center" width="33%">
-      <b>🛡️ Tools & OS</b><br>
-      <img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash,vscode&theme=dark" />
+    <td align="center" width="50%">
+      <b>📊 Most Used Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arybhatt4533&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Key Projects & Contributions
+## 🚀 Projects & Contributions
 <table align="center" width="100%">
   <tr>
     <td width="50%">
@@ -46,32 +46,17 @@
     <td colspan="2" align="center">
       <h3>🍏 Open Food Facts (Open Source)</h3>
       <p>Active contributor to the world's largest food database. Fixing UI and Backend issues as part of GSoC 2026 prep.</p>
-      <code>Rust</code> <code>Node.js</code> <code>Documentation</code>
+      <code>JavaScript</code> <code>Python</code> <code>C++</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics & Activity
-<table align="center" width="100%">
-  <tr>
-    <td align="center" colspan="2">
-      <b>🔥 Contribution Heatmap</b><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arybhatt4533&theme=tokyo-night&area=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>📈 Stats Overview</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=arybhatt4533&show_icons=true&theme=tokyonight&count_private=true" width="95%" />
-    </td>
-    <td width="50%" align="center">
-      <b>⚡ Current Streak</b><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arybhatt4533&theme=tokyonight" width="95%" />
-    </td>
-  </tr>
-</table>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arybhatt4533&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
